@@ -1,0 +1,9 @@
+[submodule "App-student"]
+	path = App-student
+	url = https://github.com/duongtt1/sm-qmake.git
+[submodule "Server-Back-End"]
+	path = Server-Back-End
+	url = https://github.com/duongtt1/Thesis-back-end.git
+[submodule "Face3DRecognition"]
+	path = Face3DRecognition
+	url = https://github.com/duongtt1/face3d.git
