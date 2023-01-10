@@ -7,3 +7,6 @@
 [submodule "Face3DRecognition"]
 	path = Face3DRecognition
 	url = https://github.com/duongtt1/face3d.git
+[submodule "App-teacher"]
+	path = App-teacher
+	url = https://github.com/duongtt1/App-teacher.git
